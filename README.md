@@ -1,2 +1,2 @@
-# CMPG_PRO
-Bubble sort
+# CMPG_PROJECT
+Bubble sort 
